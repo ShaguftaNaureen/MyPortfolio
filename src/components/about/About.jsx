@@ -21,17 +21,17 @@ const About = () => {
         <article className='about__card'>
           <FaAward className='about__icons'/>
           <h5>Experience</h5>
-          <small>1+ Years working</small>
+          <small>0Years working</small>
         </article>
         <article className='about__card'>
           <TbUsers className='about__icons'/>
           <h5>Clients</h5>
-          <small>3+ Clients</small>
+          <small>0 Clients</small>
         </article>
         <article className='about__card'>
           <TiFolderOpen className='about__icons'/>
           <h5>Projects</h5>
-          <small>10+ Projects</small>
+          <small>0 Projects</small>
         </article>
        </div>
        <p>
