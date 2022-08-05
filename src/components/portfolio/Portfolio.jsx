@@ -13,9 +13,9 @@ const data = [
     {
       id: 2,
       image: IMG1,
-      title: 'Robofriends_FirstReact project',
+      title: 'React API Crypto',
       github: 'https://github.com/ShaguftaNaureen',
-      demo: 'https://shaguftanaureen.github.io/Udemy_Robofriends/',
+      demo: 'https://shaguftanaureen.github.io/ReactAPICrypto/',
     },
     {
       id: 3,
