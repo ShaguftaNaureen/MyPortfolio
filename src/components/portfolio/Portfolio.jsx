@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/robologo.png'
-import IMG2 from '../../assets/IMG2.png'
+import IMG2 from '../../assets/IMG2.jpg'
 
 const data = [
     {
