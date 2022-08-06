@@ -1,6 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/robologo.png'
+import IMG2 from '../../assets/IMG2.png'
 
 const data = [
     {
@@ -12,7 +13,7 @@ const data = [
     },
     {
       id: 2,
-      image: IMG1,
+      image: IMG2,
       title: 'React API Crypto',
       github: 'https://github.com/ShaguftaNaureen',
       demo: 'https://shaguftanaureen.github.io/ReactAPICrypto/',
