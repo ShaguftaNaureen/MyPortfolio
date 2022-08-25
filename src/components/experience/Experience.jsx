@@ -32,15 +32,7 @@ const experience = () => {
               <BsFillCheckCircleFill className='experience__details-icon'/>
               <div>
               <h4>Javascript</h4>
-              <small className='text-light'>Experienced</small>
-              </div>
-            </article>
-
-            <article className='experience__details'>
-              <BsFillCheckCircleFill className='experience__details-icon'/>
-              <div>
-              <h4>Bootstrap</h4>
-              <small className='text-light'>Experienced</small>
+              <small className='text-light'>Intermediate</small>
               </div>
             </article>
 
@@ -54,23 +46,8 @@ const experience = () => {
           </div>
         </div>
         <div className="experience__backend">
-          <h3>Backend Development</h3>
+          <h3>Backend Development & Others </h3>
           <div className="experience__content">
-            <article className='experience__details'>
-              <BsFillCheckCircleFill className='experience__details-icon'/>
-              <div>
-              <h4>MongoDB</h4>
-              <small className='text-light'>Basic</small>
-              </div>
-            </article>
-
-            <article className='experience__details'>
-              <BsFillCheckCircleFill className='experience__details-icon'/>
-              <div>
-              <h4>MySQL</h4>
-              <small className='text-light'>Basic</small>
-              </div>
-            </article>
 
             <article className='experience__details'>
               <BsFillCheckCircleFill className='experience__details-icon'/>
@@ -91,10 +68,18 @@ const experience = () => {
             <article className='experience__details'>
               <BsFillCheckCircleFill className='experience__details-icon'/>
               <div>
-              <h4>Firebase</h4>
-              <small className='text-light'>Intermediate</small>
+              <h4>Unity</h4>
+              <small className='text-light'>Experienced</small>
               </div>
-            </article>
+             </article>
+
+             <article className='experience__details'>
+              <BsFillCheckCircleFill className='experience__details-icon' />
+                 <div>
+                   <h4>QT Creator</h4>
+                     <small className='text-light'>Experienced</small>
+                   </div>
+             </article>
           </div>
         </div>
       </div>

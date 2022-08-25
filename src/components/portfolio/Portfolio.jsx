@@ -1,50 +1,53 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/robologo.png'
-import IMG2 from '../../assets/IMG2.jpg'
+import IMG1 from '../../assets/robo.png'
+import IMG2 from '../../assets/crypto.png'
+import IMG3 from '../../assets/shopping.jpg'
+import IMG4 from '../../assets/game.jpg'
+import IMG5 from '../../assets/comingsoon.png'
 
 const data = [
     {
       id: 1,
       image: IMG1,
-      title: 'Robofriends_FirstReact project',
+      title: 'Search Robofriends',
       github: 'https://github.com/ShaguftaNaureen',
       demo: 'https://shaguftanaureen.github.io/Udemy_Robofriends/',
     },
     {
       id: 2,
       image: IMG2,
-      title: 'React API Crypto',
+      title: 'React API Crypto-Fetch',
       github: 'https://github.com/ShaguftaNaureen',
       demo: 'https://shaguftanaureen.github.io/ReactAPICrypto/',
     },
     {
       id: 3,
-      image: IMG1,
-      title: 'Robofriends_FirstReact project',
+      image: IMG3,
+      title: 'Shopping Site-Redux',
       github: 'https://github.com/ShaguftaNaureen',
-      demo: 'https://shaguftanaureen.github.io/Udemy_Robofriends/',
+        demo: 'https://shaguftanaureen.github.io/Redux-Shopping/',
     },
     {
       id: 4,
-      image: IMG1,
-      title: 'Robofriends_FirstReact project',
+      image: IMG4,
+      title: 'Memory Game',
       github: 'https://github.com/ShaguftaNaureen',
-      demo: 'https://shaguftanaureen.github.io/Udemy_Robofriends/',
+        demo: 'https://shaguftanaureen.github.io/Memory-Game/',
     },
     {
       id: 5,
-      image: IMG1,
-      title: 'Robofriends_FirstReact project',
+      image: IMG5,
+        title: 'Yet to come',
       github: 'https://github.com/ShaguftaNaureen',
       demo: 'https://shaguftanaureen.github.io/Udemy_Robofriends/',
     },
     {
       id: 6,
-      image: IMG1,
-      title: 'Robofriends_FirstReact project',
-      github: 'https://github.com/ShaguftaNaureen',
-      demo: 'https://shaguftanaureen.github.io/Udemy_Robofriends/',
+      image: IMG5,
+      title: 'Yet to come',
+      github: '',
+      demo: '',
     }
 ]
 

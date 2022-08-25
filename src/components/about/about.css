@@ -5,7 +5,7 @@
 }
 
 .about__me {
-    width: 100%; /* height is going to match the width*/
+    height: 90%;
     border-radius: 2rem;
     background: linear-gradient(
         45deg,

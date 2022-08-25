@@ -14,19 +14,19 @@ const Services = () => {
         <ul className='service__list'>
           <li>
             <MdCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Create Figma Designs of an App or a Website</p>
           </li>
           <li>
             <MdCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Create front end UI using Reactjs, HTML & CSS</p>
           </li>
           <li>
             <MdCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Create logos for the app/website or posters </p>
           </li>
           <li>
             <MdCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Collect and analyze data to create data-driven UI designs and user experiences</p>
           </li>
         </ul>
       </article>
@@ -37,27 +37,23 @@ const Services = () => {
         <ul className='service__list'>
           <li>
             <MdCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Designing user interfaces and navigation menus</p>
           </li>
           <li>
             <MdCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Create & Test website across different platforms</p>
           </li>
           <li>
             <MdCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-          </li>
+            <p>Writing and reviewing code for sites, typically HTML, CSS, Reactjs</p>
+           </li>
+          <li>
+            <MdCheck className='service__list-icon' />
+            <p>Integrate & test both backend and frontend</p>
+           </li>
           <li>
             <MdCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-          </li>
-          <li>
-            <MdCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-          </li>
-          <li>
-            <MdCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Troubleshooting problems with performance or user experience</p>
           </li>
         </ul>
       </article>
@@ -68,23 +64,23 @@ const Services = () => {
         <ul className='service__list'>
           <li>
             <MdCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Research & Designing user interfaces which fits all types of mobile devices</p>
           </li>
           <li>
             <MdCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Writing and reviewing code for app, typically ReactNative or flutter </p>
           </li>
           <li>
             <MdCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Create & Test application using different mobile devices</p>
           </li>
           <li>
             <MdCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Deploy the application to playstore or appstore</p>
           </li>
           <li>
             <MdCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Update by releasing new versions of application</p>
           </li>
         </ul>
       </article>
